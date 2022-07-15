@@ -30,13 +30,13 @@ A metric to be tested?
 
 Null hypothesis: 
 
-MechaCar is worth buying as it will save consumers more money in the long-run over the car's life compared to other vehicles in the market.
+- MechaCar is worth buying as it will save consumers more money in the long-run over the car's life compared to other vehicles in the market.
 
 Which test would you use to test the hypothesis? 
 
-Multiple linear regression across these variable to find correlation and differentiate variable that are contributing to the performance outcomes as well as t-test of each variables across the manufacturer groups
+- Multiple linear regression across these variable to find correlation and differentiate variable that are contributing to the performance outcomes as well as t-test of each variables across the manufacturer groups
 
 Which data would you use? 
-We need a large database on many manufacturers and consumner data information.
+- We need a large database on many manufacturers and consumner data information.
 
 Link to R-Public: https://rpubs.com/bhavnasingh94/924144
